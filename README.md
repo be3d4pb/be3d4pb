@@ -2,4 +2,4 @@
 <br>
 
   </p>
-        <img src="https://media1.tenor.com/m/-PeGnBnJzJEAAAAd/minecraft-intro.gif" width="10%">
+        <img src="https://c.tenor.com/-PeGnBnJzJEAAAAd/tenor.gif" width="10%">
