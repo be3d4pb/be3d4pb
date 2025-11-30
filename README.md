@@ -1,2 +1,13 @@
 <h1 align="center">  Welcome to torncrown's github page! </h1>
-[photo_2025-11-27_21-15-14](https://github.com/user-attachments/assets/8d9db5f7-7709-48a5-8231-9ed02a21dac1)
+<br>
+<div float="left" align="center">
+    <img src="[https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif](https://media1.tenor.com/m/-PeGnBnJzJEAAAAd/minecraft-intro.gif)" width="50%"/>
+  <div>
+     <kbd>
+       <br>
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ ебанатище тупое ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       <br> <br>
+     </kbd>
+  <div>
+    <br>
+</div>
