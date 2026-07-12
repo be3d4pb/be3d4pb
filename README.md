@@ -1,7 +1,7 @@
 <h1 align="center">  Welcome to torncrown's github page! </h1>
 <br>
 <p align="center">
-Hi, I'm Oscar/torncrown.  
+Hi, I'm tornqueen/torncrown/whatever suits word "torn".  
 </p>
 <h1> </h1>
 <br>
