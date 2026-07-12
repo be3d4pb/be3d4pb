@@ -7,7 +7,7 @@ Hi, I'm tornqueen/torncrown/whatever suits word "torn".
 <br>
 
 <div float="left" align="center">
-    <img src="[https://i.pinimg.com/736x/c7/2c/c4/c72cc48f9fdb95abde2f590a7edab3a1.jpg]" width="30%"/>
+    <img src="https://i.pinimg.com/736x/c7/2c/c4/c72cc48f9fdb95abde2f590a7edab3a1.jpg" width="4%">
   <div>
      <kbd>
        <br>
